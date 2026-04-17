@@ -18,7 +18,11 @@ A simple To-Do List app built with HTML, CSS and JavaScript.
 
 ## 📸 Preview
 
-(Add a screenshot here later)
+### Empty state
+![Empty](to-do-list-img.png)
+
+### With tasks
+![Tasks](to-do-list-img2.png)
 
 ## ▶️ How to Use
 

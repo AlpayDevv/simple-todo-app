@@ -48,3 +48,7 @@ A simple To-Do List app built with HTML, CSS and JavaScript.
 - Mark tasks as completed
 - Save tasks with localStorage
 - Add filters (active/completed)
+
+## 🌐 Live Demo
+
+ https://alpaydevv.github.io/simple-todo-app/
